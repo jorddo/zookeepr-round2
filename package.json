@@ -1,0 +1,25 @@
+{
+  "name": "zookeepr-round2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorddo/zookeepr-round2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorddo/zookeepr-round2/issues"
+  },
+  "homepage": "https://github.com/jorddo/zookeepr-round2#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
